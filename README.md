@@ -4,5 +4,5 @@ solution - i have created a rag based chatbot for this problem . this chatbot wi
 people to reduce the risk of fraud and mishappenings
 
 vector.ipynb - used google colab for data ingestion,embedding and to store in faiss_index file
-main.ipynb - created rag pipeline loaded used some llm model for differnent for better response 
-main.py - created streamlit UI
+main.ipynb - created rag pipeline loaded used some llm model for differnent for better response  
+main.py - created streamlit UI,used mitral:latest model 
